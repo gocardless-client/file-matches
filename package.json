@@ -1,0 +1,12 @@
+{
+  "name": "file-matches",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gocardless-client/file-matches.git"
+  },
+  "bugs": {
+    "url": "http://github.com/gocardless-client/file-matches/issues"
+  },
+  "main": "file-matches"
+}
